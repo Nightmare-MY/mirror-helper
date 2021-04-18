@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: stable
+Version: 1
+Architectures: all aarch64 arm x86_64
+Description: Termare Repository
+Suite: stable
+Date: Sun, 18 Apr 2021 07:04:21 UTC
+SHA256:
+ 9592de4d7513efe48fa5921061e78ebdcc57fcf9920c85c249f451c7e0dffd80 87099 main/binary-aarch64/Packages
+ fbd8a5c3a4eb8ece95a6054bb39c8179e7017d1589de1f84e059096b1c7b7d95 23860 main/binary-aarch64/Packages.xz
+ e92545d402f80f78ac47967e1cadbb171dfd359898cced348ebcbfaeb4732dcc 8162 main/binary-all/Packages
+ 659f860639c8d266dd5920879d9b48e0e78e5a3fa837acd9d553bc6783dfa892 3028 main/binary-all/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/binary-arm/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-x86_64/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/binary-x86_64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEgO0WL3olMoT0QYAF8Hn99Pq2RfEFAmB74msACgkQ8Hn99Pq2
+RfFjZhAAh0jUiP7T7YZKV90m4e9ZRv5lHmRZ+qQ/rynMATnqeM3gvZjHTD9/MM32
+dkBUhReNFsnm+lGLLhUWsKVO7qz5Z+hA3x9QfEPb2c9O9ShjD6EIAHEACCymav+u
+nIT27gC2kMib/T+9kfS/3sBNSiwHUdAZMti6c0ZOJTpDSi0dI/8nXCgCBLBo1Boh
+aAUwilyU4jrB020g7yuqBHrVmaVVTaMjDKVLhhzg+NOCGNOvAXEstFadCQsRdiOE
+c31xKQhcypJczu9GvVXz3Q3wGcHgt5IcVMjXtGkVI9DW+/nKaBvczLmRR+Y0Kdoe
+NJYsS3Yct/+/MzGcvQx3uwLqe0+a4lG/1FGnkM1W378IiCjojHWYw7pJPNe+p9io
+TWlRkNgI3j39gSp4/nabXIj5+4+HQLJ5ZMBmsIfVUQi30fTSVIB5WM6/HqOEl28c
+ICrouT7xdOE3NkESmvHGCB7GTTNDuW1ALppqjV8KOyWOqe0CMvDDu9PQMi7nz31w
+ISeJV2G4AUK67HE/gMFeA+La7XsvrqydHOgK2yv1tFUGrmsz/A3Trxom6ddEIRR8
+1fW0V8BCZA0zIyfvWpJe7fZL03iGfOPZ5kPPauZsLQqT5oyEiOqpIeSfjTD/iX9E
+dCaqBh5gnwZkXtFBOnFZxRcZQf1BW1mttHB20vzpM9A0gnJqHGs=
+=BucB
+-----END PGP SIGNATURE-----
