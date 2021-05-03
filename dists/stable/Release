@@ -3,12 +3,21 @@ Version: 1
 Architectures: all aarch64 arm x86_64
 Description: Termare Repository
 Suite: stable
+<<<<<<< Updated upstream
 Date: Tue, 20 Apr 2021 05:04:47 UTC
 SHA256:
  ae43d827567184850b875c1fd384aff04b9c9a66dfbf30f3c3421f502d24355e 99344 main/binary-aarch64/Packages
  653cf5837089de44e30c9dfe6f777ce46b611aa49656e4fa6713b487a4991789 28384 main/binary-aarch64/Packages.xz
  71cb985c4b7910b3fdf1d9824c8a1c3b1539ca5057f40ec7041a6e1cc7e2f4c3 8245 main/binary-all/Packages
  45f4006c5ede00186408338e4d2a57bf34855325e66496d64cfcd49c969c4ef6 3100 main/binary-all/Packages.xz
+=======
+Date: Tue, 27 Apr 2021 00:04:45 UTC
+SHA256:
+ 655175545e8e0a5b663103ab76cc5f37bce0f35728f7fad0c9508f1c6106c7b8 396500 main/binary-aarch64/Packages
+ 6eec36489694ebef1836b01287d14cda16313b236fb16571dfe1e81154a239ee 107948 main/binary-aarch64/Packages.xz
+ c38f9bc0d3e1f12567b35ca6dcd66cb37f939c59afa51421960acae963f8594f 23496 main/binary-all/Packages
+ bbc63737d1837e48133f424a18a84a4ab71ddbec8ee7118b053c8efddc538c71 7836 main/binary-all/Packages.xz
+>>>>>>> Stashed changes
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm/Packages
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/binary-arm/Packages.xz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-x86_64/Packages
